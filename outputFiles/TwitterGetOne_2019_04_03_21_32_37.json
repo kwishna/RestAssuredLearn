@@ -1,0 +1,666 @@
+[
+    {
+        "created_at": "Wed Apr 03 16:02:35 +0000 2019",
+        "id": 1113471870198734850,
+        "id_str": "1113471870198734850",
+        "text": "RT @Bunibroto: Indrani Haldar in a #Sharada function,so basic requirement of being post holder &amp; star campaigned of TMC is beneficiary of c…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Sharada",
+                    "indices": [
+                        35,
+                        43
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "Bunibroto",
+                    "name": "???????? ????????",
+                    "id": 71720227,
+                    "id_str": "71720227",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": [
+                
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 307793874,
+            "id_str": "307793874",
+            "name": "????????",
+            "screen_name": "trunils",
+            "location": "Kolkata, India.",
+            "description": "Senior software developer, working in a MNC, also a part time writer. My tweets are in my likes. Tweets my personal views and Retweets are not any endorsements.",
+            "url": "https://t.co/uKPF3wSJBE",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/uKPF3wSJBE",
+                            "expanded_url": "https://www.twitter.com/search/from:@trunils",
+                            "display_url": "twitter.com/search/from:@t…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 17230,
+            "friends_count": 3188,
+            "listed_count": 91,
+            "created_at": "Mon May 30 09:13:34 +0000 2011",
+            "favourites_count": 16970,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 65140,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/790551576783892480/UhhAjVWV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/790551576783892480/UhhAjVWV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/307793874/1426609792",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 03 16:01:38 +0000 2019",
+            "id": 1113471630695497736,
+            "id_str": "1113471630695497736",
+            "text": "Indrani Haldar in a #Sharada function,so basic requirement of being post holder &amp; star campaigned of TMC is benefic… https://t.co/nQvigmhWOT",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Sharada",
+                        "indices": [
+                            20,
+                            28
+                        ]
+                    }
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/nQvigmhWOT",
+                        "expanded_url": "https://twitter.com/i/web/status/1113471630695497736",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 71720227,
+                "id_str": "71720227",
+                "name": "???????? ????????",
+                "screen_name": "Bunibroto",
+                "location": "INDIA",
+                "description": "Believes strongly in politics,which is clean devoted to development. BJP #Samvad Prabhari of WestBengal. Request you to follow state Twitter handle @BJPSamvadWB",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 7992,
+                "friends_count": 644,
+                "listed_count": 76,
+                "created_at": "Sat Sep 05 03:52:52 +0000 2009",
+                "favourites_count": 3232,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 102107,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1106388099385315328/7X5KqSGH_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106388099385315328/7X5KqSGH_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/71720227/1540090021",
+                "profile_link_color": "D02B55",
+                "profile_sidebar_border_color": "F2E195",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 16:02:35 +0000 2019",
+        "id": 1113471868302970882,
+        "id_str": "1113471868302970882",
+        "text": "You can thank Jameela Jamil for that one. https://t.co/PwSHfOeMX0",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/PwSHfOeMX0",
+                    "expanded_url": "https://trib.al/2TwIwPC",
+                    "display_url": "trib.al/2TwIwPC",
+                    "indices": [
+                        42,
+                        65
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 25087685,
+            "id_str": "25087685",
+            "name": "Women's Health",
+            "screen_name": "WomensHealthMag",
+            "location": "",
+            "description": "Get the latest in health, fitness, sex, beauty, and more!",
+            "url": "https://t.co/h9x9YI1iHJ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h9x9YI1iHJ",
+                            "expanded_url": "http://www.womenshealthmag.com",
+                            "display_url": "womenshealthmag.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 4582105,
+            "friends_count": 785,
+            "listed_count": 17696,
+            "created_at": "Wed Mar 18 15:11:42 +0000 2009",
+            "favourites_count": 748,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 98122,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "FF6699",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/839877433469906945/Bqir5psJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/839877433469906945/Bqir5psJ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25087685/1552397415",
+            "profile_link_color": "B40B43",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "3C3940",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 16:02:34 +0000 2019",
+        "id": 1113471865081798663,
+        "id_str": "1113471865081798663",
+        "text": "#RahulScamsterScam | Why did Rahul Gandhi got into a deal when the company already had a show-cause notice and was… https://t.co/zVid5j9M61",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "RahulScamsterScam",
+                    "indices": [
+                        0,
+                        18
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/zVid5j9M61",
+                    "expanded_url": "https://twitter.com/i/web/status/1113471865081798663",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 811972460560019456,
+            "id_str": "811972460560019456",
+            "name": "Republic",
+            "screen_name": "republic",
+            "location": "Mumbai, India",
+            "description": "Official handle Republic Media Network  DIGITAL. TV. MEDIA",
+            "url": "https://t.co/hnogVm69Tl",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hnogVm69Tl",
+                            "expanded_url": "http://www.republicworld.com",
+                            "display_url": "republicworld.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 588263,
+            "friends_count": 4,
+            "listed_count": 1147,
+            "created_at": "Thu Dec 22 16:31:35 +0000 2016",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 161780,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1067341186497736704/95V6t2w3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1067341186497736704/95V6t2w3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/811972460560019456/1552569343",
+            "profile_link_color": "FF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 16:02:34 +0000 2019",
+        "id": 1113471863487893505,
+        "id_str": "1113471863487893505",
+        "text": "F A Gills Slaughter House Vigil 28/03/2019  https://t.co/YL72GHdFYp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/YL72GHdFYp",
+                    "expanded_url": "https://www.youtube.com/watch?v=xV3Un7Xtza4",
+                    "display_url": "youtube.com/watch?v=xV3Un7…",
+                    "indices": [
+                        44,
+                        67
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.occuworld.org/\" rel=\"nofollow\">OccuWorld</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1179710990,
+            "id_str": "1179710990",
+            "name": "OccuWorld ?",
+            "screen_name": "OccuWorld",
+            "location": "Earth",
+            "description": "Truth Locating Engine. Non-funded, volunteer, automated. In solidarity with humanity.",
+            "url": "https://t.co/ayBYM1vTQo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ayBYM1vTQo",
+                            "expanded_url": "http://www.occuworld.org",
+                            "display_url": "occuworld.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8012,
+            "friends_count": 1294,
+            "listed_count": 1236,
+            "created_at": "Thu Feb 14 16:39:18 +0000 2013",
+            "favourites_count": 21256,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3230089,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563724232287211520/sEoE-N6j_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/563724232287211520/sEoE-N6j_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179710990/1394814697",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 16:02:33 +0000 2019",
+        "id": 1113471862007267329,
+        "id_str": "1113471862007267329",
+        "text": "Turkey, Russia relations to be discussed in Moscow https://t.co/IKwmjED9DM",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/IKwmjED9DM",
+                    "expanded_url": "http://sabahdai.ly/oX9DdK",
+                    "display_url": "sabahdai.ly/oX9DdK",
+                    "indices": [
+                        51,
+                        74
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2231905548,
+            "id_str": "2231905548",
+            "name": "DAILY SABAH",
+            "screen_name": "DailySabah",
+            "location": "Istanbul",
+            "description": "Give us your ear for the latest headlines, special reports and interesting stories from Turkey and the world.",
+            "url": "http://t.co/7M88a9ckkF",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/7M88a9ckkF",
+                            "expanded_url": "http://www.dailysabah.com",
+                            "display_url": "dailysabah.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 478480,
+            "friends_count": 7,
+            "listed_count": 1558,
+            "created_at": "Thu Dec 05 19:08:07 +0000 2013",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 108185,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/946490180923461633/kiv6CHb4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/946490180923461633/kiv6CHb4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2231905548/1554067262",
+            "profile_link_color": "993232",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+]

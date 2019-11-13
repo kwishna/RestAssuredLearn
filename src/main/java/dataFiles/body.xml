@@ -1,0 +1,12 @@
+<PlaceAddRequest>
+	<location>
+		<lat>-33.8669710</lat>
+		<lng>151.1958750</lng>
+	</location>
+	<accuracy>50</accuracy>
+	<name>Taj Mahal XML</name>
+	<phone_number>(01) 1234 1235</phone_number>
+	<address>Taj Mahal Muhalla, Agra, Uttar Pradesh</address>
+	<website>https://www.tajmahal.com</website>
+	<language>en-IN</language>
+</PlaceAddRequest>

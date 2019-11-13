@@ -1,0 +1,228 @@
+{
+    "created_at": "Tue Apr 02 16:33:08 +0000 2019",
+    "id": 1113117169062240256,
+    "id_str": "1113117169062240256",
+    "text": "RT @KrsnAsngH: Hii! This Tweet Is From JAVA API. #BharatBoleModiModi @KrsnAsngH #RestAssured",
+    "truncated": false,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "BharatBoleModiModi",
+                "indices": [
+                    49,
+                    68
+                ]
+            },
+            {
+                "text": "RestAssured",
+                "indices": [
+                    80,
+                    92
+                ]
+            }
+        ],
+        "symbols": [
+            
+        ],
+        "user_mentions": [
+            {
+                "screen_name": "KrsnAsngH",
+                "name": "????AB  D™????",
+                "id": 3151310556,
+                "id_str": "3151310556",
+                "indices": [
+                    3,
+                    13
+                ]
+            },
+            {
+                "screen_name": "KrsnAsngH",
+                "name": "????AB  D™????",
+                "id": 3151310556,
+                "id_str": "3151310556",
+                "indices": [
+                    69,
+                    79
+                ]
+            }
+        ],
+        "urls": [
+            
+        ]
+    },
+    "source": "<a href=\"https://js-finder0001.stackblitz.io/\" rel=\"nofollow\">Abdapp</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 3151310556,
+        "id_str": "3151310556",
+        "name": "????AB  D™????",
+        "screen_name": "KrsnAsngH",
+        "location": "New Delhi, India",
+        "description": "???? ??? ????????\n\n?? ??? ?? ??? ??????? ?????????\n???? ????? ??? ???????\n\nRT Doesn't Mean Support.\n\n????? ???",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": [
+                    
+                ]
+            }
+        },
+        "protected": false,
+        "followers_count": 362,
+        "friends_count": 4694,
+        "listed_count": 6,
+        "created_at": "Sun Apr 12 12:57:41 +0000 2015",
+        "favourites_count": 319,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2076,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4A913C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/892859137293295616/rS44_qK3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/892859137293295616/rS44_qK3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3151310556/1537006260",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Tue Apr 02 16:33:04 +0000 2019",
+        "id": 1113117151534166017,
+        "id_str": "1113117151534166017",
+        "text": "Hii! This Tweet Is From JAVA API. #BharatBoleModiModi @KrsnAsngH #RestAssured",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "BharatBoleModiModi",
+                    "indices": [
+                        34,
+                        53
+                    ]
+                },
+                {
+                    "text": "RestAssured",
+                    "indices": [
+                        65,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "KrsnAsngH",
+                    "name": "????AB  D™????",
+                    "id": 3151310556,
+                    "id_str": "3151310556",
+                    "indices": [
+                        54,
+                        64
+                    ]
+                }
+            ],
+            "urls": [
+                
+            ]
+        },
+        "source": "<a href=\"https://js-finder0001.stackblitz.io/\" rel=\"nofollow\">Abdapp</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3151310556,
+            "id_str": "3151310556",
+            "name": "????AB  D™????",
+            "screen_name": "KrsnAsngH",
+            "location": "New Delhi, India",
+            "description": "???? ??? ????????\n\n?? ??? ?? ??? ??????? ?????????\n???? ????? ??? ???????\n\nRT Doesn't Mean Support.\n\n????? ???",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 362,
+            "friends_count": 4694,
+            "listed_count": 6,
+            "created_at": "Sun Apr 12 12:57:41 +0000 2015",
+            "favourites_count": 319,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2076,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "4A913C",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/892859137293295616/rS44_qK3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/892859137293295616/rS44_qK3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3151310556/1537006260",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+}

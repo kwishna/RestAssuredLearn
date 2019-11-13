@@ -1,0 +1,691 @@
+[
+    {
+        "created_at": "Wed Apr 03 15:32:20 +0000 2019",
+        "id": 1113464256463130625,
+        "id_str": "1113464256463130625",
+        "text": "No Civilian traffic on NH1. \n\nConvoy needs SP level escorts \n\n3 tier security layer, \n\nWhat about political workers… https://t.co/cTsyEIfG4v",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/cTsyEIfG4v",
+                    "expanded_url": "https://twitter.com/i/web/status/1113464256463130625",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 104835947,
+            "id_str": "104835947",
+            "name": "J&K PDP",
+            "screen_name": "jkpdp",
+            "location": "Jammu & Kashmir",
+            "description": "Official handle of J&K Peoples Democratic Party. Striving for peace with dignity for the people of J&K.\nFb: https://t.co/AQrUWemj5b",
+            "url": "https://t.co/ROwapnaJBc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ROwapnaJBc",
+                            "expanded_url": "https://jkpdp.in",
+                            "display_url": "jkpdp.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AQrUWemj5b",
+                            "expanded_url": "http://fb.me/jkpdp1",
+                            "display_url": "fb.me/jkpdp1",
+                            "indices": [
+                                108,
+                                131
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 35850,
+            "friends_count": 53,
+            "listed_count": 135,
+            "created_at": "Thu Jan 14 15:07:46 +0000 2010",
+            "favourites_count": 4047,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 10985,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "106B1E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1095633127639318528/uvQD4V9N_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095633127639318528/uvQD4V9N_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/104835947/1529847968",
+            "profile_link_color": "106B1E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "65A14D",
+            "profile_text_color": "106B1E",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1113460803925999617,
+        "quoted_status_id_str": "1113460803925999617",
+        "quoted_status": {
+            "created_at": "Wed Apr 03 15:18:37 +0000 2019",
+            "id": 1113460803925999617,
+            "id_str": "1113460803925999617",
+            "text": "No civilian traffic on NHW for two days (Sunday &amp; Wednesday) every week In Kashmir to prevent any suicide attack on… https://t.co/6iPhHEBQSY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/6iPhHEBQSY",
+                        "expanded_url": "https://twitter.com/i/web/status/1113460803925999617",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 113861793,
+                "id_str": "113861793",
+                "name": "aasifsuhaf News24",
+                "screen_name": "asifsuhaf",
+                "location": "Sringar J&K",
+                "description": "Broadcast Journalist | J&K Bureau Chief for News 24, E 24 | Views r my own nt official | RTs mean something interested to me |",
+                "url": "https://t.co/VlYGqmSdF8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/VlYGqmSdF8",
+                                "expanded_url": "https://www.facebook.com/Aasif-Suhaf-Journalist-JK-218446945608391/",
+                                "display_url": "facebook.com/Aasif-Suhaf-Jo…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4593,
+                "friends_count": 199,
+                "listed_count": 41,
+                "created_at": "Sat Feb 13 08:23:32 +0000 2010",
+                "favourites_count": 1994,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7101,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092087928786808832/newAP9qC_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092087928786808832/newAP9qC_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/113861793/1501324441",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "D3D2CF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:32:18 +0000 2019",
+        "id": 1113464248632586241,
+        "id_str": "1113464248632586241",
+        "text": ".@OfficialAPCNg BoT Member Reveals Why @MBuhari Lost Presidential Election In Ondo | Sahara Reporters\n\"We cried to… https://t.co/dZF8CekZf2",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "OfficialAPCNg",
+                    "name": "APC Nigeria",
+                    "id": 981286914811682817,
+                    "id_str": "981286914811682817",
+                    "indices": [
+                        1,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "MBuhari",
+                    "name": "Muhammadu Buhari",
+                    "id": 2936714848,
+                    "id_str": "2936714848",
+                    "indices": [
+                        39,
+                        47
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/dZF8CekZf2",
+                    "expanded_url": "https://twitter.com/i/web/status/1113464248632586241",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 17409452,
+            "id_str": "17409452",
+            "name": "Sahara Reporters",
+            "screen_name": "SaharaReporters",
+            "location": "New York",
+            "description": "Citizen Reporters In New York",
+            "url": "http://t.co/GJr9XKyMtV",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/GJr9XKyMtV",
+                            "expanded_url": "http://www.saharareporters.com",
+                            "display_url": "saharareporters.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2276332,
+            "friends_count": 575,
+            "listed_count": 2223,
+            "created_at": "Sat Nov 15 16:31:32 +0000 2008",
+            "favourites_count": 147,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 89022,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D43A17",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/484178487360499712/LeRpr7xQ_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/484178487360499712/LeRpr7xQ_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17409452/1462829750",
+            "profile_link_color": "660000",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:32:17 +0000 2019",
+        "id": 1113464242760503298,
+        "id_str": "1113464242760503298",
+        "text": "Adityanath 'Incapable' CM Committed 'Sin' By Terming Ardh Kumbh As Kumbh: SP Leader https://t.co/t8Ia1Ku6eC",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/t8Ia1Ku6eC",
+                    "expanded_url": "http://www.thehawk.in/states/uttar-pradesh/adityanath-incapable-cm-committed-sin-by-terming-ardh-kumbh-as-kumbh-sp-leader-108585?utm_campaign=pubshare&utm_source=facebook&utm_medium=246577068688315&utm_content=auto-link&utm_id=105",
+                    "display_url": "thehawk.in/states/uttar-p…",
+                    "indices": [
+                        84,
+                        107
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 957575197,
+            "id_str": "957575197",
+            "name": "The Hawk",
+            "screen_name": "thehawk",
+            "location": "India",
+            "description": "?Stay UpToDate - The Hawk is One of India's topmost English Dailies. Latest news from India and around the world.",
+            "url": "https://t.co/cUUWtl8ekz",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/cUUWtl8ekz",
+                            "expanded_url": "http://www.thehawk.in",
+                            "display_url": "thehawk.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2079,
+            "friends_count": 782,
+            "listed_count": 10,
+            "created_at": "Mon Nov 19 14:48:20 +0000 2012",
+            "favourites_count": 14,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 39506,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/833185559422107648/JBeubrpb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/833185559422107648/JBeubrpb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/957575197/1496131744",
+            "profile_link_color": "1F98C7",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:32:17 +0000 2019",
+        "id": 1113464242286391296,
+        "id_str": "1113464242286391296",
+        "text": "??? ?????? ?????? ????? ????? ??????? ?????? ?????! (?????) https://t.co/c026r2dAWz",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/c026r2dAWz",
+                    "expanded_url": "https://bangla.dhakatribune.com/international/2019/04/03/9491/%E0%A6%98%E0%A7%81%E0%A6%AE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B0!-(%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93)",
+                    "display_url": "bangla.dhakatribune.com/international/…",
+                    "indices": [
+                        60,
+                        83
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 756796452,
+            "id_str": "756796452",
+            "name": "DhakaTribune",
+            "screen_name": "DhakaTribune",
+            "location": "Dhaka, Bangladesh",
+            "description": "Dhaka Tribune is the fastest growing English daily in Bangladesh. News, views & features from Bangladesh and the world.",
+            "url": "https://t.co/otRwnl7jAr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/otRwnl7jAr",
+                            "expanded_url": "https://twittercounter.com/",
+                            "display_url": "twittercounter.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 186034,
+            "friends_count": 190,
+            "listed_count": 668,
+            "created_at": "Tue Aug 14 09:01:02 +0000 2012",
+            "favourites_count": 51,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 106633,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1061480451653550080/tq18S1fc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061480451653550080/tq18S1fc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/756796452/1550985052",
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "bn"
+    },
+    {
+        "created_at": "Wed Apr 03 15:32:14 +0000 2019",
+        "id": 1113464229112221696,
+        "id_str": "1113464229112221696",
+        "text": "????? ??? ?? ????? ????? ?? ???? ??????, ??? ????? ????? ?? ??? ??? ???? \nhttps://t.co/m7Si2kdo8j\n\n#pmmodi… https://t.co/8c3R6SnfSc",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "pmmodi",
+                    "indices": [
+                        99,
+                        106
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/m7Si2kdo8j",
+                    "expanded_url": "https://youtu.be/Y87Kv-RwQxA",
+                    "display_url": "youtu.be/Y87Kv-RwQxA",
+                    "indices": [
+                        74,
+                        97
+                    ]
+                },
+                {
+                    "url": "https://t.co/8c3R6SnfSc",
+                    "expanded_url": "https://twitter.com/i/web/status/1113464229112221696",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3220032374,
+            "id_str": "3220032374",
+            "name": "total news",
+            "screen_name": "totaltv_news",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5139,
+            "friends_count": 0,
+            "listed_count": 36,
+            "created_at": "Tue May 19 05:46:01 +0000 2015",
+            "favourites_count": 68,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 80248,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/600543714012827649/9kV_qcw8_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/600543714012827649/9kV_qcw8_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3220032374/1432034430",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "hi"
+    }
+]

@@ -1,0 +1,849 @@
+[
+    {
+        "created_at": "Wed Apr 03 15:31:09 +0000 2019",
+        "id": 1113463959900905472,
+        "id_str": "1113463959900905472",
+        "text": "Afiouni talks technological cooperation with Swiss Ambassador https://t.co/fqU36miX7q",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/fqU36miX7q",
+                    "expanded_url": "http://bit.ly/2I6Dp2s",
+                    "display_url": "bit.ly/2I6Dp2s",
+                    "indices": [
+                        62,
+                        85
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.mtv.com.lb\" rel=\"nofollow\">MTV English News</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1089342374,
+            "id_str": "1089342374",
+            "name": "MTV English News",
+            "screen_name": "MTVEnglishNews",
+            "location": "Naccache, Lebanon",
+            "description": "Your go-to source for local, regional and international news  \n\n- Follow @MTVLebanonNews for Arabic news updates",
+            "url": "http://t.co/Q5W6X03l",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Q5W6X03l",
+                            "expanded_url": "http://mtv.com.lb",
+                            "display_url": "mtv.com.lb",
+                            "indices": [
+                                0,
+                                20
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8370,
+            "friends_count": 217,
+            "listed_count": 219,
+            "created_at": "Mon Jan 14 15:33:04 +0000 2013",
+            "favourites_count": 9,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 169184,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0A3270",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3108382803/011ea7d4ad53a8a94ead09d1b239460c_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3108382803/011ea7d4ad53a8a94ead09d1b239460c_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089342374/1453828673",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:31:09 +0000 2019",
+        "id": 1113463959086989314,
+        "id_str": "1113463959086989314",
+        "text": "Lil Nas' song was removed from Billboard for not being 'country' enough. But who gets to decide categories?\nhttps://t.co/7agQHARUA7",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/7agQHARUA7",
+                    "expanded_url": "https://www.theguardian.com/music/2019/apr/02/lil-nas-song-removed-from-billboard-not-country-enough",
+                    "display_url": "theguardian.com/music/2019/apr…",
+                    "indices": [
+                        108,
+                        131
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16042794,
+            "id_str": "16042794",
+            "name": "Guardian US",
+            "screen_name": "GuardianUS",
+            "location": "United States",
+            "description": "US news, opinion, features and sports from the Guardian.",
+            "url": "http://t.co/PdR19XDNvY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/PdR19XDNvY",
+                            "expanded_url": "http://theguardian.com/us",
+                            "display_url": "theguardian.com/us",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 200526,
+            "friends_count": 729,
+            "listed_count": 6161,
+            "created_at": "Fri Aug 29 14:52:08 +0000 2008",
+            "favourites_count": 1804,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 209084,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1061908487540744192/Peys3gmS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061908487540744192/Peys3gmS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16042794/1542013665",
+            "profile_link_color": "005789",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CAE3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:31:09 +0000 2019",
+        "id": 1113463958994915330,
+        "id_str": "1113463958994915330",
+        "text": "Brazil soccer star Pele hospitalized in Paris: RMC Sport https://t.co/7fQ2UTP7C8 https://t.co/OPxEEdQNWM",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/7fQ2UTP7C8",
+                    "expanded_url": "https://reut.rs/2WGfXNv",
+                    "display_url": "reut.rs/2WGfXNv",
+                    "indices": [
+                        57,
+                        80
+                    ]
+                }
+            ],
+            "media": [
+                {
+                    "id": 1113463957950480389,
+                    "id_str": "1113463957950480389",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D3PRkgPWwAU85E3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D3PRkgPWwAU85E3.jpg",
+                    "url": "https://t.co/OPxEEdQNWM",
+                    "display_url": "pic.twitter.com/OPxEEdQNWM",
+                    "expanded_url": "https://twitter.com/ReutersUS/status/1113463958994915330/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 736,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 736,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 489,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1113463957950480389,
+                    "id_str": "1113463957950480389",
+                    "indices": [
+                        81,
+                        104
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/D3PRkgPWwAU85E3.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/D3PRkgPWwAU85E3.jpg",
+                    "url": "https://t.co/OPxEEdQNWM",
+                    "display_url": "pic.twitter.com/OPxEEdQNWM",
+                    "expanded_url": "https://twitter.com/ReutersUS/status/1113463958994915330/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1024,
+                            "h": 736,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1024,
+                            "h": 736,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 489,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://trueanthem.com/\" rel=\"nofollow\">trueAnthem</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15108530,
+            "id_str": "15108530",
+            "name": "Reuters U.S. News",
+            "screen_name": "ReutersUS",
+            "location": "",
+            "description": "Top news from the United States.",
+            "url": "http://t.co/KnhmNHIJNx",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/KnhmNHIJNx",
+                            "expanded_url": "http://reut.rs/19LrEHD",
+                            "display_url": "reut.rs/19LrEHD",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 113029,
+            "friends_count": 320,
+            "listed_count": 4026,
+            "created_at": "Fri Jun 13 15:54:21 +0000 2008",
+            "favourites_count": 10,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 164712,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "444444",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/877263299439493121/4Otn8oxB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/877263299439493121/4Otn8oxB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15108530/1426173752",
+            "profile_link_color": "006F97",
+            "profile_sidebar_border_color": "F5F5F5",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:31:08 +0000 2019",
+        "id": 1113463955169484801,
+        "id_str": "1113463955169484801",
+        "text": "RT @dezthebezz: the video on the left was from my bday last year &amp; the sad part is i didn't even post any pics that day because i was too e…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "dezthebezz",
+                    "name": "dez",
+                    "id": 969535578952921089,
+                    "id_str": "969535578952921089",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 4311401969,
+            "id_str": "4311401969",
+            "name": "Be Fit Recipes",
+            "screen_name": "BeFitRecipe",
+            "location": "",
+            "description": "The best combo of healthy and delicious on Twitter. *we do not own content posted*",
+            "url": "https://t.co/pP0cLX3YCC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pP0cLX3YCC",
+                            "expanded_url": "http://instagram.com/chonky.animals",
+                            "display_url": "instagram.com/chonky.animals",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 187245,
+            "friends_count": 67,
+            "listed_count": 480,
+            "created_at": "Sat Nov 28 22:06:06 +0000 2015",
+            "favourites_count": 20,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 716,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1026730173960474624/5m0kHuNF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026730173960474624/5m0kHuNF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4311401969/1533625898",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 03 04:04:22 +0000 2019",
+            "id": 1113291123684913152,
+            "id_str": "1113291123684913152",
+            "text": "the video on the left was from my bday last year &amp; the sad part is i didn't even post any pics that day because i w… https://t.co/iXA5uXIsWP",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/iXA5uXIsWP",
+                        "expanded_url": "https://twitter.com/i/web/status/1113291123684913152",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 969535578952921089,
+                "id_str": "969535578952921089",
+                "name": "dez",
+                "screen_name": "dezthebezz",
+                "location": "California, USA",
+                "description": "5'7\" | 26 | Pisces?• SW:258 • CW:152 • ??106 Pounds • On a self love journey ??",
+                "url": "https://t.co/sCzPhOLHLM",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/sCzPhOLHLM",
+                                "expanded_url": "http://healthynews.center/5",
+                                "display_url": "healthynews.center/5",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1017,
+                "friends_count": 48,
+                "listed_count": 0,
+                "created_at": "Fri Mar 02 11:31:09 +0000 2018",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1113287026911043587/jCKrGsIk_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113287026911043587/jCKrGsIk_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/969535578952921089/1554263332",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 100,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:31:08 +0000 2019",
+        "id": 1113463954456576001,
+        "id_str": "1113463954456576001",
+        "text": "??????? ?? ???? ?? ???? ???? ???????, ??????? ?? ??? ?? ?????? ???? ?? - ????? ?????, ???????????, ?????… https://t.co/B7QyQ2V5M4",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/B7QyQ2V5M4",
+                    "expanded_url": "https://twitter.com/i/web/status/1113463954456576001",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        106,
+                        129
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1374608696,
+            "id_str": "1374608696",
+            "name": "News18 Jharkhand",
+            "screen_name": "News18Jharkhand",
+            "location": "Patna, India",
+            "description": "@News18Jharkhand  , Network18 Group caters to News & information to the Jharkhand  viewers. Network18 Group is presently the largest Television Network in India",
+            "url": "https://t.co/k5hn1Zance",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/k5hn1Zance",
+                            "expanded_url": "http://hindi.news18.com/jharkhand/",
+                            "display_url": "hindi.news18.com/jharkhand/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 51761,
+            "friends_count": 263,
+            "listed_count": 111,
+            "created_at": "Tue Apr 23 13:20:22 +0000 2013",
+            "favourites_count": 144,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32553,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DED1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974633674300952576/1Z2mkDMz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974633674300952576/1Z2mkDMz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374608696/1553323704",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1113462780101844992,
+        "quoted_status_id_str": "1113462780101844992",
+        "quoted_status": {
+            "created_at": "Wed Apr 03 15:26:28 +0000 2019",
+            "id": 1113462780101844992,
+            "id_str": "1113462780101844992",
+            "text": "??????? ?? ???? ?? ???? ???? ???????, ??????? ?? ??? ?? ?????? ???? ?? - ????? ?????, ???????????, ?????… https://t.co/k2OSPGnkrn",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/k2OSPGnkrn",
+                        "expanded_url": "https://twitter.com/i/web/status/1113462780101844992",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 98362607,
+                "id_str": "98362607",
+                "name": "News18 India",
+                "screen_name": "News18India",
+                "location": "India",
+                "description": "Latest news and updates from across the nation.",
+                "url": "https://t.co/CWZJtcIXKe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/CWZJtcIXKe",
+                                "expanded_url": "http://hindi.news18.com/",
+                                "display_url": "hindi.news18.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1016757,
+                "friends_count": 91,
+                "listed_count": 893,
+                "created_at": "Mon Dec 21 12:11:21 +0000 2009",
+                "favourites_count": 500,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 281302,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/973495281718198272/WTuAJVDH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/973495281718198272/WTuAJVDH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/98362607/1553941112",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "hi"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "hi"
+    }
+]

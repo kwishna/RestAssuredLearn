@@ -1,0 +1,14 @@
+{
+	 "location": {
+                    "lat": -33.8688197,
+                    "lng": 151.2092955
+                },
+      "accuracy" : 50,
+      "name"	 : "Google Shoes!",
+      "phone_number" : "(02) 9374 4000",
+      "address"	 : "48 Pirrama Road, Pyrmont, NSW 2009, Australia",
+      "types"	 : ["shoe store"],
+      "website"	 : "https://www.google.com.au",
+      "language" : "en-AU"
+}
+

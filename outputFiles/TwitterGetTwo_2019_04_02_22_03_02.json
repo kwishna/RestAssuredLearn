@@ -1,0 +1,646 @@
+[
+    {
+        "created_at": "Tue Apr 02 16:04:17 +0000 2019",
+        "id": 1113109908214439936,
+        "id_str": "1113109908214439936",
+        "text": "Congress governs in reverse gear, and because of them the people suffer! https://t.co/U8BPa13E64",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                
+            ],
+            "media": [
+                {
+                    "id": 1113073345606701058,
+                    "id_str": "1113073345606701058",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1113073345606701058/img/fBHXety0H5GumoTv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1113073345606701058/img/fBHXety0H5GumoTv.jpg",
+                    "url": "https://t.co/U8BPa13E64",
+                    "display_url": "pic.twitter.com/U8BPa13E64",
+                    "expanded_url": "https://twitter.com/narendramodi/status/1113109908214439936/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1113073345606701058,
+                    "id_str": "1113073345606701058",
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1113073345606701058/img/fBHXety0H5GumoTv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1113073345606701058/img/fBHXety0H5GumoTv.jpg",
+                    "url": "https://t.co/U8BPa13E64",
+                    "display_url": "pic.twitter.com/U8BPa13E64",
+                    "expanded_url": "https://twitter.com/narendramodi/status/1113109908214439936/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 640,
+                            "h": 360,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 181880,
+                        "variants": [
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1113073345606701058/vid/320x180/DZpNzA5hGcakCR5O.mp4?tag=11"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1113073345606701058/pl/9XLGnBgiigjObxoR.m3u8?tag=11"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1113073345606701058/vid/640x360/6-eMp7ml601zVzOd.mp4?tag=11"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18839785,
+            "id_str": "18839785",
+            "name": "Chowkidar Narendra Modi",
+            "screen_name": "narendramodi",
+            "location": "India",
+            "description": "Prime Minister of India",
+            "url": "https://t.co/zzYhUUfq6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zzYhUUfq6i",
+                            "expanded_url": "http://www.narendramodi.in",
+                            "display_url": "narendramodi.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 46695169,
+            "friends_count": 2161,
+            "listed_count": 23553,
+            "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 22830,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4EDD4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1502777627",
+            "profile_link_color": "4E7096",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D5DFED",
+            "profile_text_color": "233863",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 810,
+        "favorite_count": 2992,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 16:03:47 +0000 2019",
+        "id": 1113109784990007296,
+        "id_str": "1113109784990007296",
+        "text": "How times change!\n\nThose who took part in the anti-Emergency movement and were inspired by Loknayak JP’s ideals hav… https://t.co/48MfeZFCMK",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/48MfeZFCMK",
+                    "expanded_url": "https://twitter.com/i/web/status/1113109784990007296",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18839785,
+            "id_str": "18839785",
+            "name": "Chowkidar Narendra Modi",
+            "screen_name": "narendramodi",
+            "location": "India",
+            "description": "Prime Minister of India",
+            "url": "https://t.co/zzYhUUfq6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zzYhUUfq6i",
+                            "expanded_url": "http://www.narendramodi.in",
+                            "display_url": "narendramodi.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 46695169,
+            "friends_count": 2161,
+            "listed_count": 23553,
+            "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 22830,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4EDD4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1502777627",
+            "profile_link_color": "4E7096",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D5DFED",
+            "profile_text_color": "233863",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1086,
+        "favorite_count": 3765,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 16:02:55 +0000 2019",
+        "id": 1113109565762142208,
+        "id_str": "1113109565762142208",
+        "text": "The campaign in Bihar couldn’t have started on a better note!\n\nRecord number of people joined the Jamui rally. \n\nTh… https://t.co/b6RZ9CJB8s",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/b6RZ9CJB8s",
+                    "expanded_url": "https://twitter.com/i/web/status/1113109565762142208",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18839785,
+            "id_str": "18839785",
+            "name": "Chowkidar Narendra Modi",
+            "screen_name": "narendramodi",
+            "location": "India",
+            "description": "Prime Minister of India",
+            "url": "https://t.co/zzYhUUfq6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zzYhUUfq6i",
+                            "expanded_url": "http://www.narendramodi.in",
+                            "display_url": "narendramodi.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 46695169,
+            "friends_count": 2161,
+            "listed_count": 23553,
+            "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 22830,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4EDD4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1502777627",
+            "profile_link_color": "4E7096",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D5DFED",
+            "profile_text_color": "233863",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 745,
+        "favorite_count": 2643,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 14:45:26 +0000 2019",
+        "id": 1113090066971148288,
+        "id_str": "1113090066971148288",
+        "text": "Kalahandi symbolizes the abysmal failure of Congress. It was in Kalahandi that Mr. Rajiv Gandhi made his famous sta… https://t.co/YSDIbvzBip",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/YSDIbvzBip",
+                    "expanded_url": "https://twitter.com/i/web/status/1113090066971148288",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18839785,
+            "id_str": "18839785",
+            "name": "Chowkidar Narendra Modi",
+            "screen_name": "narendramodi",
+            "location": "India",
+            "description": "Prime Minister of India",
+            "url": "https://t.co/zzYhUUfq6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zzYhUUfq6i",
+                            "expanded_url": "http://www.narendramodi.in",
+                            "display_url": "narendramodi.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 46695169,
+            "friends_count": 2161,
+            "listed_count": 23553,
+            "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 22830,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4EDD4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1502777627",
+            "profile_link_color": "4E7096",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D5DFED",
+            "profile_text_color": "233863",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2328,
+        "favorite_count": 7903,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 14:43:13 +0000 2019",
+        "id": 1113089509611077632,
+        "id_str": "1113089509611077632",
+        "text": "Odisha is going to do what UP did in 2017 and Tripura in 2018! Odias want freedom from mining mafias, chit fund loo… https://t.co/vV9Te1EaHv",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/vV9Te1EaHv",
+                    "expanded_url": "https://twitter.com/i/web/status/1113089509611077632",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18839785,
+            "id_str": "18839785",
+            "name": "Chowkidar Narendra Modi",
+            "screen_name": "narendramodi",
+            "location": "India",
+            "description": "Prime Minister of India",
+            "url": "https://t.co/zzYhUUfq6i",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zzYhUUfq6i",
+                            "expanded_url": "http://www.narendramodi.in",
+                            "display_url": "narendramodi.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 46695169,
+            "friends_count": 2161,
+            "listed_count": 23553,
+            "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 22830,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F4EDD4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/718314968102367232/ypY1GPCQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1502777627",
+            "profile_link_color": "4E7096",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "D5DFED",
+            "profile_text_color": "233863",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1656,
+        "favorite_count": 5721,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]

@@ -1,0 +1,1094 @@
+[
+    {
+        "created_at": "Wed Apr 03 15:28:18 +0000 2019",
+        "id": 1113463239264727045,
+        "id_str": "1113463239264727045",
+        "text": "RT @RoflGandhi_: kyonki usko shak hai ki aap 5 t-shirts ke badle apna vote PDP ko bhi bech sakte ho. https://t.co/kErEz49Nzf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "RoflGandhi_",
+                    "name": "Rofl Gandhi",
+                    "id": 115887279,
+                    "id_str": "115887279",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/kErEz49Nzf",
+                    "expanded_url": "https://twitter.com/TajinderBagga/status/1113375304720850944",
+                    "display_url": "twitter.com/TajinderBagga/…",
+                    "indices": [
+                        101,
+                        124
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 702034495789203456,
+            "id_str": "702034495789203456",
+            "name": "Khabar India",
+            "screen_name": "KhabarIndiaNow",
+            "location": "India",
+            "description": "We Turn Opinions Into Votes| Unbiased | Practical | Every Vote Counts | Follow Us For The Biggest Polls On Twitter | #KeepVoting |",
+            "url": "https://t.co/3xBpZmeWWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/3xBpZmeWWG",
+                            "expanded_url": "https://Twitter.com/@Voice_Your_Vote",
+                            "display_url": "Twitter.com/@Voice_Your_Vo…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2567,
+            "friends_count": 56,
+            "listed_count": 13,
+            "created_at": "Tue Feb 23 07:37:21 +0000 2016",
+            "favourites_count": 7156,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9708,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/922433186704924677/mQ7E_S6T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/922433186704924677/mQ7E_S6T_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 03 11:32:25 +0000 2019",
+            "id": 1113403880572846080,
+            "id_str": "1113403880572846080",
+            "text": "kyonki usko shak hai ki aap 5 t-shirts ke badle apna vote PDP ko bhi bech sakte ho. https://t.co/kErEz49Nzf",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/kErEz49Nzf",
+                        "expanded_url": "https://twitter.com/TajinderBagga/status/1113375304720850944",
+                        "display_url": "twitter.com/TajinderBagga/…",
+                        "indices": [
+                            84,
+                            107
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 115887279,
+                "id_str": "115887279",
+                "name": "Rofl Gandhi",
+                "screen_name": "RoflGandhi_",
+                "location": "Rajiv Chowk ",
+                "description": "Parody.  Industrialist, Philanthropist, Golfer, Liar. \ncontactroflgandhi@gmail.com",
+                "url": "https://t.co/ErQh0QtkGd",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ErQh0QtkGd",
+                                "expanded_url": "https://m.facebook.com/roflgandhi/",
+                                "display_url": "m.facebook.com/roflgandhi/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 357803,
+                "friends_count": 438,
+                "listed_count": 954,
+                "created_at": "Sat Feb 20 09:24:25 +0000 2010",
+                "favourites_count": 31108,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 64693,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "BADFCD",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1112632056540995584/pjudShwV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112632056540995584/pjudShwV_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/115887279/1537187723",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFF7CC",
+                "profile_text_color": "0C3E53",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1113375304720850944,
+            "quoted_status_id_str": "1113375304720850944",
+            "quoted_status": {
+                "created_at": "Wed Apr 03 09:38:52 +0000 2019",
+                "id": 1113375304720850944,
+                "id_str": "1113375304720850944",
+                "text": "Just got a Call from Customer, in the end of conversation he requested me to Vote for BJP ?",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        
+                    ],
+                    "symbols": [
+                        
+                    ],
+                    "user_mentions": [
+                        
+                    ],
+                    "urls": [
+                        
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 85462891,
+                    "id_str": "85462891",
+                    "name": "Chowkidar Tajinder Bagga",
+                    "screen_name": "TajinderBagga",
+                    "location": "New Delhi",
+                    "description": "#SwayamSewak #AOLite \nSpokesperson,BJP Delhi Founder @Tshirtbhaiya",
+                    "url": "https://t.co/6Coj9Xlu2s",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/6Coj9Xlu2s",
+                                    "expanded_url": "https://www.tshirtbhaiya.com",
+                                    "display_url": "tshirtbhaiya.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 502254,
+                    "friends_count": 6241,
+                    "listed_count": 982,
+                    "created_at": "Tue Oct 27 00:53:18 +0000 2009",
+                    "favourites_count": 38243,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 52232,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "DBE9ED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1112197383448780800/IKaMHKtd_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112197383448780800/IKaMHKtd_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/85462891/1553280512",
+                    "profile_link_color": "CC3366",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "F6F6F6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2041,
+                "favorite_count": 10343,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 659,
+            "favorite_count": 2687,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "hi"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1113375304720850944,
+        "quoted_status_id_str": "1113375304720850944",
+        "retweet_count": 659,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "hi"
+    },
+    {
+        "created_at": "Wed Apr 03 15:28:17 +0000 2019",
+        "id": 1113463235850657797,
+        "id_str": "1113463235850657797",
+        "text": "https://t.co/RMsAypA2Hg Video: Taming the player-murdering machine that was MechWarrior 5’s level generator: This e… https://t.co/GI0kOpL6VM",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/RMsAypA2Hg",
+                    "expanded_url": "http://youhalal.com",
+                    "display_url": "youhalal.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                },
+                {
+                    "url": "https://t.co/GI0kOpL6VM",
+                    "expanded_url": "https://twitter.com/i/web/status/1113463235850657797",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 19827010,
+            "id_str": "19827010",
+            "name": "Bangladesh News 24",
+            "screen_name": "bdnews24",
+            "location": "Canary Wharf, London",
+            "description": "#Bangladesh #News 24 is the first independent #news #aggregator @Twitter. We cover more than ? trusted global #news #brands real-time.",
+            "url": "https://t.co/xux1riPtjq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xux1riPtjq",
+                            "expanded_url": "http://facebook.com/bdnews24twitter",
+                            "display_url": "facebook.com/bdnews24twitter",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 227609,
+            "friends_count": 93419,
+            "listed_count": 589,
+            "created_at": "Sat Jan 31 19:13:59 +0000 2009",
+            "favourites_count": 14261,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1209899,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "709397",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1026535006569725953/lRszXa2G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026535006569725953/lRszXa2G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19827010/1554231528",
+            "profile_link_color": "33FF8D",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FAFAFA",
+            "profile_text_color": "21693E",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:28:16 +0000 2019",
+        "id": 1113463232226779138,
+        "id_str": "1113463232226779138",
+        "text": ".@BJP4India ?? ???????? ????? @anil_baluni ?? ???????? ?? 1 ???? ???? ???? ?? ??????? ????? ?? ??? ??????.. \n\n????… https://t.co/Xz27GIHb9Q",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "BJP4India",
+                    "name": "BJP",
+                    "id": 207809313,
+                    "id_str": "207809313",
+                    "indices": [
+                        1,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "anil_baluni",
+                    "name": "Chowkidar Anil Baluni",
+                    "id": 1628406374,
+                    "id_str": "1628406374",
+                    "indices": [
+                        30,
+                        42
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/Xz27GIHb9Q",
+                    "expanded_url": "https://twitter.com/i/web/status/1113463232226779138",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 824922110,
+            "id_str": "824922110",
+            "name": "Sudarshan News",
+            "screen_name": "SudarshanNewsTV",
+            "location": "Noida, India",
+            "description": "Official Twitter Account of Sudarshan 24x7 National News by @SureshChavhanke, known as ?????????? ?? ????? ?????. Top Show #BindasBol #ChalteChalte #JanSansad",
+            "url": "https://t.co/6Ho8caOZl5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/6Ho8caOZl5",
+                            "expanded_url": "http://SudarshanNews.in",
+                            "display_url": "SudarshanNews.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 81987,
+            "friends_count": 153,
+            "listed_count": 257,
+            "created_at": "Sat Sep 15 09:36:36 +0000 2012",
+            "favourites_count": 3248,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 70084,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940920370428649474/J3CA8smw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940920370428649474/J3CA8smw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/824922110/1530336141",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "hi"
+    },
+    {
+        "created_at": "Wed Apr 03 15:28:15 +0000 2019",
+        "id": 1113463229135695872,
+        "id_str": "1113463229135695872",
+        "text": "RT @GaryMLevin: Today in  TV-show renewals: @netflix picks up @rickygervais' #AfterLife for Season 2.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "AfterLife",
+                    "indices": [
+                        77,
+                        87
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "GaryMLevin",
+                    "name": "Gary Levin",
+                    "id": 817719620,
+                    "id_str": "817719620",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "netflix",
+                    "name": "Netflix US",
+                    "id": 16573941,
+                    "id_str": "16573941",
+                    "indices": [
+                        44,
+                        52
+                    ]
+                },
+                {
+                    "screen_name": "rickygervais",
+                    "name": "Ricky Gervais",
+                    "id": 20015311,
+                    "id_str": "20015311",
+                    "indices": [
+                        62,
+                        75
+                    ]
+                }
+            ],
+            "urls": [
+                
+            ]
+        },
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15764283,
+            "id_str": "15764283",
+            "name": "USA TODAY Life",
+            "screen_name": "usatodaylife",
+            "location": "USA TODAY HQ, McLean, Va.",
+            "description": "Latest entertainment and celebrity news, along with movie and TV reviews from USA TODAY. Updated by @heyitsanika and the Life staff.",
+            "url": "https://t.co/ASf7rImkTZ",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ASf7rImkTZ",
+                            "expanded_url": "http://www.usatoday.com/life",
+                            "display_url": "usatoday.com/life",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 79973,
+            "friends_count": 3093,
+            "listed_count": 1943,
+            "created_at": "Thu Aug 07 15:09:16 +0000 2008",
+            "favourites_count": 5762,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 100457,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9600B4",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/924987330993246209/ioqzy8gA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/924987330993246209/ioqzy8gA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15764283/1509369152",
+            "profile_link_color": "9600B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4A1D4",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Apr 03 15:20:22 +0000 2019",
+            "id": 1113461243791269888,
+            "id_str": "1113461243791269888",
+            "text": "Today in  TV-show renewals: @netflix picks up @rickygervais' #AfterLife for Season 2.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "AfterLife",
+                        "indices": [
+                            61,
+                            71
+                        ]
+                    }
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "netflix",
+                        "name": "Netflix US",
+                        "id": 16573941,
+                        "id_str": "16573941",
+                        "indices": [
+                            28,
+                            36
+                        ]
+                    },
+                    {
+                        "screen_name": "rickygervais",
+                        "name": "Ricky Gervais",
+                        "id": 20015311,
+                        "id_str": "20015311",
+                        "indices": [
+                            46,
+                            59
+                        ]
+                    }
+                ],
+                "urls": [
+                    
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 817719620,
+                "id_str": "817719620",
+                "name": "Gary Levin",
+                "screen_name": "GaryMLevin",
+                "location": "New York",
+                "description": "TV Editor at USA TODAY",
+                "url": "https://t.co/XRFkWt0YX1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/XRFkWt0YX1",
+                                "expanded_url": "http://www.usatoday.com/life/index",
+                                "display_url": "usatoday.com/life/index",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 4528,
+                "friends_count": 731,
+                "listed_count": 150,
+                "created_at": "Tue Sep 11 16:16:21 +0000 2012",
+                "favourites_count": 988,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 6539,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/886280606400880640/z34hMia7_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/886280606400880640/z34hMia7_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/817719620/1472748761",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 15:28:13 +0000 2019",
+        "id": 1113463219602038789,
+        "id_str": "1113463219602038789",
+        "text": "#NitishKumarToNews18 ??? ?? ???? ?? ??? ????? ???? ?? ???- ????? ?????, ???????????, ????? @NitishKumar… https://t.co/8PoYyVNTOo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "NitishKumarToNews18",
+                    "indices": [
+                        0,
+                        20
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "NitishKumar",
+                    "name": "Nitish Kumar",
+                    "id": 143409075,
+                    "id_str": "143409075",
+                    "indices": [
+                        91,
+                        103
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/8PoYyVNTOo",
+                    "expanded_url": "https://twitter.com/i/web/status/1113463219602038789",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        105,
+                        128
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1374608696,
+            "id_str": "1374608696",
+            "name": "News18 Jharkhand",
+            "screen_name": "News18Jharkhand",
+            "location": "Patna, India",
+            "description": "@News18Jharkhand  , Network18 Group caters to News & information to the Jharkhand  viewers. Network18 Group is presently the largest Television Network in India",
+            "url": "https://t.co/k5hn1Zance",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/k5hn1Zance",
+                            "expanded_url": "http://hindi.news18.com/jharkhand/",
+                            "display_url": "hindi.news18.com/jharkhand/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 51761,
+            "friends_count": 263,
+            "listed_count": 111,
+            "created_at": "Tue Apr 23 13:20:22 +0000 2013",
+            "favourites_count": 144,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 32550,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "B2DED1",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/974633674300952576/1Z2mkDMz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/974633674300952576/1Z2mkDMz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374608696/1553323704",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E6F6F9",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1113462328966533121,
+        "quoted_status_id_str": "1113462328966533121",
+        "quoted_status": {
+            "created_at": "Wed Apr 03 15:24:41 +0000 2019",
+            "id": 1113462328966533121,
+            "id_str": "1113462328966533121",
+            "text": "#NitishKumarToNews18 ??? ?? ???? ?? ??? ????? ???? ?? ???- ????? ?????, ???????????, ????? @NitishKumar… https://t.co/W4LotrTWmj",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "NitishKumarToNews18",
+                        "indices": [
+                            0,
+                            20
+                        ]
+                    }
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "NitishKumar",
+                        "name": "Nitish Kumar",
+                        "id": 143409075,
+                        "id_str": "143409075",
+                        "indices": [
+                            91,
+                            103
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/W4LotrTWmj",
+                        "expanded_url": "https://twitter.com/i/web/status/1113462328966533121",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            105,
+                            128
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 98362607,
+                "id_str": "98362607",
+                "name": "News18 India",
+                "screen_name": "News18India",
+                "location": "India",
+                "description": "Latest news and updates from across the nation.",
+                "url": "https://t.co/CWZJtcIXKe",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/CWZJtcIXKe",
+                                "expanded_url": "http://hindi.news18.com/",
+                                "display_url": "hindi.news18.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1016758,
+                "friends_count": 91,
+                "listed_count": 893,
+                "created_at": "Mon Dec 21 12:11:21 +0000 2009",
+                "favourites_count": 500,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 281299,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/973495281718198272/WTuAJVDH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/973495281718198272/WTuAJVDH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/98362607/1553941112",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "hi"
+        },
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "hi"
+    }
+]

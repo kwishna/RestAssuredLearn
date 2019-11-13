@@ -1,0 +1,577 @@
+[
+    {
+        "created_at": "Tue Apr 02 16:32:57 +0000 2019",
+        "id": 1113117123319083008,
+        "id_str": "1113117123319083008",
+        "text": "Susan Page’s Barbara Bush bio revisits a remarkable life https://t.co/cRRGs9fcJI",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/cRRGs9fcJI",
+                    "expanded_url": "https://trib.al/T3moxle",
+                    "display_url": "trib.al/T3moxle",
+                    "indices": [
+                        57,
+                        80
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 13323862,
+            "id_str": "13323862",
+            "name": "San Antonio Express-News",
+            "screen_name": "ExpressNews",
+            "location": "San Antonio, TX",
+            "description": "Tweeting from https://t.co/Q8zecocOCe, the online home of the San Antonio Express-News.\n\nFollow our journalists at: https://t.co/WGjMOFduWI",
+            "url": "https://t.co/zBFbnkDHx8",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zBFbnkDHx8",
+                            "expanded_url": "http://www.ExpressNews.com",
+                            "display_url": "ExpressNews.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Q8zecocOCe",
+                            "expanded_url": "http://ExpressNews.com",
+                            "display_url": "ExpressNews.com",
+                            "indices": [
+                                14,
+                                37
+                            ]
+                        },
+                        {
+                            "url": "https://t.co/WGjMOFduWI",
+                            "expanded_url": "https://twitter.com/mySA/lists/express-news-staff",
+                            "display_url": "twitter.com/mySA/lists/exp…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 25169,
+            "friends_count": 480,
+            "listed_count": 282,
+            "created_at": "Sun Feb 10 21:54:48 +0000 2008",
+            "favourites_count": 83,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 21154,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/674727718420787200/04o2QB-t_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/674727718420787200/04o2QB-t_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13323862/1496158688",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 16:32:56 +0000 2019",
+        "id": 1113117117652570119,
+        "id_str": "1113117117652570119",
+        "text": "RBI Board member Sachin Chaturvedi speaks on Supreme Court’s verdict on RBI February 2019 circular… https://t.co/mw30MRBTxK",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/mw30MRBTxK",
+                    "expanded_url": "https://twitter.com/i/web/status/1113117117652570119",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 720604310678016002,
+            "id_str": "720604310678016002",
+            "name": "Breaking News Videos",
+            "screen_name": "newsinvidsin",
+            "location": "India",
+            "description": "Breaking New from India in Videos. NewsInVids.in #NewsInVids",
+            "url": "https://t.co/ALQHaTaXHr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ALQHaTaXHr",
+                            "expanded_url": "http://www.NewsInVids.in",
+                            "display_url": "NewsInVids.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 280,
+            "friends_count": 127,
+            "listed_count": 14,
+            "created_at": "Thu Apr 14 13:27:10 +0000 2016",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 125629,
+            "lang": "en-gb",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/843156378986328065/djYB0Pgo_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/843156378986328065/djYB0Pgo_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/720604310678016002/1489859137",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 16:32:55 +0000 2019",
+        "id": 1113117114678890497,
+        "id_str": "1113117114678890497",
+        "text": "It's weirdly comforting and I don't wanna talk about it. https://t.co/lDUjXrZSAu",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/lDUjXrZSAu",
+                    "expanded_url": "https://trib.al/r0zISyn",
+                    "display_url": "trib.al/r0zISyn",
+                    "indices": [
+                        57,
+                        80
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 25093616,
+            "id_str": "25093616",
+            "name": "Men's Health Mag",
+            "screen_name": "MensHealthMag",
+            "location": "Instagram: @menshealthmag",
+            "description": "Men's Health magazine is your ultimate guide to fitness, health, weight loss, nutrition, sex, style and guy wisdom.",
+            "url": "https://t.co/axzIpmG13u",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/axzIpmG13u",
+                            "expanded_url": "http://menshealth.com",
+                            "display_url": "menshealth.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 4519197,
+            "friends_count": 1098,
+            "listed_count": 17630,
+            "created_at": "Wed Mar 18 15:45:26 +0000 2009",
+            "favourites_count": 3299,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 107005,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "E2E2E2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/725778108930990080/8V5HAi1J_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/725778108930990080/8V5HAi1J_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25093616/1552486016",
+            "profile_link_color": "FF3300",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "A6A6A6",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 16:32:55 +0000 2019",
+        "id": 1113117114506924032,
+        "id_str": "1113117114506924032",
+        "text": "Now the White House says Trump has no 'specific timeline' for closing U.S.-Mexico border https://t.co/4GcJADeIGF",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/4GcJADeIGF",
+                    "expanded_url": "https://trib.al/inYULOB",
+                    "display_url": "trib.al/inYULOB",
+                    "indices": [
+                        89,
+                        112
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 380285402,
+            "id_str": "380285402",
+            "name": "Daily Mail US",
+            "screen_name": "DailyMail",
+            "location": "New York",
+            "description": "Latest news from the US Daily Mail team. We're on Facebook too: https://t.co/hD0PyZHS4Z ??",
+            "url": "http://t.co/fT7KB2wyqg",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/fT7KB2wyqg",
+                            "expanded_url": "http://www.dailymail.com",
+                            "display_url": "dailymail.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/hD0PyZHS4Z",
+                            "expanded_url": "http://fb.me/DailyMail",
+                            "display_url": "fb.me/DailyMail",
+                            "indices": [
+                                64,
+                                87
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 187184,
+            "friends_count": 1846,
+            "listed_count": 2956,
+            "created_at": "Mon Sep 26 11:52:56 +0000 2011",
+            "favourites_count": 1601,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 145443,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F2F2F2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1009393240330723328/w1FD-Dsj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009393240330723328/w1FD-Dsj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/380285402/1488911378",
+            "profile_link_color": "004EB3",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Apr 02 16:32:53 +0000 2019",
+        "id": 1113117106176974848,
+        "id_str": "1113117106176974848",
+        "text": "Tucker Carlson calls AOC a ‘moron’ and ‘nasty’ in bizarre video - then immediately agrees with her https://t.co/xxMubi66ud",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/xxMubi66ud",
+                    "expanded_url": "https://www.independent.co.uk/news/world/americas/us-politics/tucker-carlson-aoc-video-green-new-deal-ocasio-cortez-a8851366.html?utm_medium=Social&utm_source=Twitter#Echobox=1554222306",
+                    "display_url": "independent.co.uk/news/world/ame…",
+                    "indices": [
+                        99,
+                        122
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 16973333,
+            "id_str": "16973333",
+            "name": "The Independent",
+            "screen_name": "Independent",
+            "location": "London, England",
+            "description": "News, comment and features from The Independent",
+            "url": "https://t.co/ENon5VCZ03",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ENon5VCZ03",
+                            "expanded_url": "http://independent.co.uk",
+                            "display_url": "independent.co.uk",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 2700042,
+            "friends_count": 1178,
+            "listed_count": 22963,
+            "created_at": "Sun Oct 26 00:00:29 +0000 2008",
+            "favourites_count": 6,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 832897,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1015965267116089347/_Aaz8Ff7_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1015965267116089347/_Aaz8Ff7_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16973333/1549384292",
+            "profile_link_color": "FC051A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+]

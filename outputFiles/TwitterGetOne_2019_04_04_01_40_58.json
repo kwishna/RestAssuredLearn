@@ -1,0 +1,551 @@
+[
+    {
+        "created_at": "Wed Apr 03 20:10:56 +0000 2019",
+        "id": 1113534369161986050,
+        "id_str": "1113534369161986050",
+        "text": "NASA chief says India's destruction of one of its satellites created 400 pieces of orbital debris that causes new d… https://t.co/QW9zF1Urs8",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/QW9zF1Urs8",
+                    "expanded_url": "https://twitter.com/i/web/status/1113534369161986050",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3091150576,
+            "id_str": "3091150576",
+            "name": "TRT World",
+            "screen_name": "trtworld",
+            "location": "",
+            "description": "Where news inspires change. Features, opinion, video, and in-depth coverage. Follow @TRTWorldNow for breaking news and live updates.",
+            "url": "https://t.co/xBnIOCbA5h",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/xBnIOCbA5h",
+                            "expanded_url": "http://trtworld.com",
+                            "display_url": "trtworld.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 179023,
+            "friends_count": 10,
+            "listed_count": 1306,
+            "created_at": "Fri Mar 13 11:23:42 +0000 2015",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 98505,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/604916087180754945/1aMHMBIj_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/604916087180754945/1aMHMBIj_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3091150576/1553771803",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 20:10:54 +0000 2019",
+        "id": 1113534358491738115,
+        "id_str": "1113534358491738115",
+        "text": "Instances of rape, incest and down syndrome are sometimes considered exceptions under abortion laws. But that would… https://t.co/DWIkqDAVce",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/DWIkqDAVce",
+                    "expanded_url": "https://twitter.com/i/web/status/1113534358491738115",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 7166582,
+            "id_str": "7166582",
+            "name": "KOMU 8 News",
+            "screen_name": "KOMUnews",
+            "location": "Columbia, MO",
+            "description": "This is KOMU 8's tweet hub. We're tracking community & breaking news! #MidMO #CoMo #JCMO",
+            "url": "http://t.co/kPLuvZLtRb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/kPLuvZLtRb",
+                            "expanded_url": "http://www.komu.com",
+                            "display_url": "komu.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 59952,
+            "friends_count": 494,
+            "listed_count": 914,
+            "created_at": "Sat Jun 30 05:01:10 +0000 2007",
+            "favourites_count": 490,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 111922,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458262723231350785/ffMBQnuX_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458262723231350785/ffMBQnuX_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7166582/1497298786",
+            "profile_link_color": "3E5EC9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "74C2E1",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 20:10:53 +0000 2019",
+        "id": 1113534355991932929,
+        "id_str": "1113534355991932929",
+        "text": "Sweden Is ‘The Best Example Of Socialism’… Because It Isn’t Socialism https://t.co/sDJaQAmpjY",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/sDJaQAmpjY",
+                    "expanded_url": "https://www.theodysseyonline.com/sweden-isnt-socialist",
+                    "display_url": "theodysseyonline.com/sweden-isnt-so…",
+                    "indices": [
+                        70,
+                        93
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.occuworld.org/\" rel=\"nofollow\">OccuWorld</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1179710990,
+            "id_str": "1179710990",
+            "name": "OccuWorld ❌",
+            "screen_name": "OccuWorld",
+            "location": "Earth",
+            "description": "Truth Locating Engine. Non-funded, volunteer, automated. In solidarity with humanity.",
+            "url": "https://t.co/ayBYM1vTQo",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ayBYM1vTQo",
+                            "expanded_url": "http://www.occuworld.org",
+                            "display_url": "occuworld.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8014,
+            "friends_count": 1294,
+            "listed_count": 1236,
+            "created_at": "Thu Feb 14 16:39:18 +0000 2013",
+            "favourites_count": 21265,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3230252,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/563724232287211520/sEoE-N6j_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/563724232287211520/sEoE-N6j_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179710990/1394814697",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 20:10:52 +0000 2019",
+        "id": 1113534352149716992,
+        "id_str": "1113534352149716992",
+        "text": "Blue Apron climbed 7% after the meal-kit delivery company replaced CEO Brad Dickerson with former Etsy exec Linda F… https://t.co/2AIXB8WFXx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/2AIXB8WFXx",
+                    "expanded_url": "https://twitter.com/i/web/status/1113534352149716992",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1113533769011617792,
+        "in_reply_to_status_id_str": "1113533769011617792",
+        "in_reply_to_user_id": 16184358,
+        "in_reply_to_user_id_str": "16184358",
+        "in_reply_to_screen_name": "CNNBusiness",
+        "user": {
+            "id": 16184358,
+            "id_str": "16184358",
+            "name": "CNN Business",
+            "screen_name": "CNNBusiness",
+            "location": "Global",
+            "description": "Your guide to tech, media, finance and the future",
+            "url": "https://t.co/ZLgYiheZkS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ZLgYiheZkS",
+                            "expanded_url": "http://CNN.com/business",
+                            "display_url": "CNN.com/business",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1742178,
+            "friends_count": 968,
+            "listed_count": 20119,
+            "created_at": "Mon Sep 08 13:44:47 +0000 2008",
+            "favourites_count": 306,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 153699,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "CCCCCC",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1047664113726382081/1z2vgDwB_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047664113726382081/1z2vgDwB_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16184358/1538617548",
+            "profile_link_color": "01C59F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F0F0F0",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Wed Apr 03 20:10:52 +0000 2019",
+        "id": 1113534349767368704,
+        "id_str": "1113534349767368704",
+        "text": "Modi calls Cong manifesto ‘Dhakosla Patra’ https://t.co/J4kApGYbmf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/J4kApGYbmf",
+                    "expanded_url": "http://news.statetimes.in/?p=467971",
+                    "display_url": "news.statetimes.in/?p=467971",
+                    "indices": [
+                        43,
+                        66
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 466484786,
+            "id_str": "466484786",
+            "name": "State Times",
+            "screen_name": "State_Times",
+            "location": "Jammu | Kashmir | Delhi",
+            "description": "State Times is the only media vehicle of J&K breaking language and geographical barriers, connecting J&K to Delhi and the rest of India. English / Hindi Daily.",
+            "url": "http://t.co/yNTEJSmJ2T",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/yNTEJSmJ2T",
+                            "expanded_url": "http://statetimes.in",
+                            "display_url": "statetimes.in",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1418,
+            "friends_count": 0,
+            "listed_count": 44,
+            "created_at": "Tue Jan 17 13:17:02 +0000 2012",
+            "favourites_count": 4,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 202815,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/495437442632007680/uAyVHzG3_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/495437442632007680/uAyVHzG3_normal.png",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "ca"
+    }
+]
