@@ -27,16 +27,14 @@ public class Utils {
 	}
 	
 	public static XmlPath rawToXml(String response) {
-		
-		XmlPath xml = new XmlPath(response);
-		return xml;
+
+		return new XmlPath(response);
 	}
 	
 	public static JsonPath rawToJson(String response) {
-		
-		JsonPath json = new JsonPath(response);
+
 		// Or, response.extract().response().jsonPath();
-		return json;
+		return new JsonPath(response);
 	}
 	
 	public static void saveIntoFile(ValidatableResponse response){
@@ -119,19 +117,20 @@ public class Utils {
 		
 		String[] s = fileNameWithFormat.split("[.]");
 		String end = s[s.length-1];
-		String fileName = "";
+		StringBuilder fileName = new StringBuilder();
 		
 		for(int i=0; i<s.length-1; i++) {
 			
-			fileName=fileName+s[i];
+			fileName.append(s[i]);
 		}
-		
-		if(data!=null || fileNameWithFormat!=null)
-		try {
-			Files.write(Paths.get(System.getProperty("user.dir")+"/outputFiles/"+fileName+"_"+new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss").format(new Date())+"."+end),
-					data.getBytes());
-		} catch (IOException e) {
-			e.printStackTrace();
+
+		if(null != data || fileNameWithFormat != null) {
+			try {
+				Files.write(Paths.get(System.getProperty("user.dir") + "/outputFiles/" + fileName + "_" + new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss").format(new Date()) + "." + end),
+						data.getBytes());
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
 		}
 		
 	}
