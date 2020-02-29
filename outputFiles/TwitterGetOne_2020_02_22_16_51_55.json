@@ -1,0 +1,862 @@
+[
+    {
+        "created_at": "Sat Feb 22 11:21:47 +0000 2020",
+        "id": 1231177260075495424,
+        "id_str": "1231177260075495424",
+        "text": "Live Updates: Protest march held in London ahead of Assange's extradition hearing https://t.co/6suHPgbbrM\n\n@wikileaks #Assange",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Assange",
+                    "indices": [
+                        118,
+                        126
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "wikileaks",
+                    "name": "WikiLeaks",
+                    "id": 16589206,
+                    "id_str": "16589206",
+                    "indices": [
+                        107,
+                        117
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/6suHPgbbrM",
+                    "expanded_url": "https://sptnkne.ws/B22t",
+                    "display_url": "sptnkne.ws/B22t",
+                    "indices": [
+                        82,
+                        105
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 34262462,
+            "id_str": "34262462",
+            "name": "Sputnik",
+            "screen_name": "SputnikInt",
+            "location": "",
+            "description": "Sputnik is a global wire, radio and digital news service. We exist to tell the stories that aren’t being told.",
+            "url": "https://t.co/CGNEJoSLHS",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CGNEJoSLHS",
+                            "expanded_url": "http://sputniknews.com",
+                            "display_url": "sputniknews.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 304548,
+            "friends_count": 288,
+            "listed_count": 6998,
+            "created_at": "Wed Apr 22 12:55:28 +0000 2009",
+            "favourites_count": 17,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 80105,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/994508305107247104/F7nR9Pfk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/994508305107247104/F7nR9Pfk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/34262462/1546604563",
+            "profile_link_color": "FAB81E",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "056EAB",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 22 11:21:44 +0000 2020",
+        "id": 1231177246389366787,
+        "id_str": "1231177246389366787",
+        "text": "Shaheen Bagh protest an example of struggle between rights and duties of people: Naqvi https://t.co/JiwfQrt9pX",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/JiwfQrt9pX",
+                    "expanded_url": "http://www.millenniumpost.in/delhi/shaheen-bagh-protest-an-example-of-struggle-between-rights-and-duties-of-people-naqvi-402103?utm_campaign=pubshare&utm_source=Twitter&utm_medium=729655926433689600&utm_content=auto-link&utm_id=232",
+                    "display_url": "millenniumpost.in/delhi/shaheen-…",
+                    "indices": [
+                        87,
+                        110
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://hocalwire.com\" rel=\"nofollow\">Hocalwire Social Share</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 729655926433689600,
+            "id_str": "729655926433689600",
+            "name": "Millennium Post",
+            "screen_name": "mpostdigital",
+            "location": "New Delhi, India",
+            "description": "No Half Truths|Facebook: https://t.co/09dXkl5is6|",
+            "url": "https://t.co/txl85KPwR5",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/txl85KPwR5",
+                            "expanded_url": "http://www.millenniumpost.in/",
+                            "display_url": "millenniumpost.in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/09dXkl5is6",
+                            "expanded_url": "http://bit.ly/2lL7gzW",
+                            "display_url": "bit.ly/2lL7gzW",
+                            "indices": [
+                                25,
+                                48
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 595,
+            "friends_count": 56,
+            "listed_count": 16,
+            "created_at": "Mon May 09 12:55:04 +0000 2016",
+            "favourites_count": 27,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 89868,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/780339756831866880/ha2WUSSx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/780339756831866880/ha2WUSSx_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/729655926433689600/1462967998",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Sat Feb 22 11:21:40 +0000 2020",
+        "id": 1231177230501449728,
+        "id_str": "1231177230501449728",
+        "text": "RT @razi_ahmed_: With Asghar Nadeem Syed Sahib #LLF2020 https://t.co/pDPWcNiopT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LLF2020",
+                    "indices": [
+                        47,
+                        55
+                    ]
+                }
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "razi_ahmed_",
+                    "name": "Razi Ahmed",
+                    "id": 178440187,
+                    "id_str": "178440187",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": [
+                
+            ],
+            "media": [
+                {
+                    "id": 1231168397972516865,
+                    "id_str": "1231168397972516865",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                    "url": "https://t.co/pDPWcNiopT",
+                    "display_url": "pic.twitter.com/pDPWcNiopT",
+                    "expanded_url": "https://twitter.com/razi_ahmed_/status/1231168419401289729/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1231168419401289729,
+                    "source_status_id_str": "1231168419401289729",
+                    "source_user_id": 178440187,
+                    "source_user_id_str": "178440187"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1231168397972516865,
+                    "id_str": "1231168397972516865",
+                    "indices": [
+                        56,
+                        79
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                    "url": "https://t.co/pDPWcNiopT",
+                    "display_url": "pic.twitter.com/pDPWcNiopT",
+                    "expanded_url": "https://twitter.com/razi_ahmed_/status/1231168419401289729/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1536,
+                            "h": 2048,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 900,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 510,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 1231168419401289729,
+                    "source_status_id_str": "1231168419401289729",
+                    "source_user_id": 178440187,
+                    "source_user_id_str": "178440187"
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 102296197,
+            "id_str": "102296197",
+            "name": "Newsweek Pakistan",
+            "screen_name": "NewsweekPak",
+            "location": "",
+            "description": "Pakistan's No. 1 newsmagazine. Making sense of the world for you since 2010.",
+            "url": "https://t.co/jDQ5tPPFoj",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/jDQ5tPPFoj",
+                            "expanded_url": "http://newsweekpakistan.com",
+                            "display_url": "newsweekpakistan.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 282074,
+            "friends_count": 312,
+            "listed_count": 989,
+            "created_at": "Wed Jan 06 06:43:18 +0000 2010",
+            "favourites_count": 107,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 16067,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "E81C41",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/856400525562138624/7LLu9_RT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/856400525562138624/7LLu9_RT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/102296197/1582261888",
+            "profile_link_color": "737373",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "F7F7F7",
+            "profile_text_color": "8F3434",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 22 10:46:39 +0000 2020",
+            "id": 1231168419401289729,
+            "id_str": "1231168419401289729",
+            "text": "With Asghar Nadeem Syed Sahib #LLF2020 https://t.co/pDPWcNiopT",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LLF2020",
+                        "indices": [
+                            30,
+                            38
+                        ]
+                    }
+                ],
+                "symbols": [
+                    
+                ],
+                "user_mentions": [
+                    
+                ],
+                "urls": [
+                    
+                ],
+                "media": [
+                    {
+                        "id": 1231168397972516865,
+                        "id_str": "1231168397972516865",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                        "url": "https://t.co/pDPWcNiopT",
+                        "display_url": "pic.twitter.com/pDPWcNiopT",
+                        "expanded_url": "https://twitter.com/razi_ahmed_/status/1231168419401289729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1231168397972516865,
+                        "id_str": "1231168397972516865",
+                        "indices": [
+                            39,
+                            62
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ERX9IovWsAE4rQu.jpg",
+                        "url": "https://t.co/pDPWcNiopT",
+                        "display_url": "pic.twitter.com/pDPWcNiopT",
+                        "expanded_url": "https://twitter.com/razi_ahmed_/status/1231168419401289729/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1536,
+                                "h": 2048,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 900,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 510,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 178440187,
+                "id_str": "178440187",
+                "name": "Razi Ahmed",
+                "screen_name": "razi_ahmed_",
+                "location": "Lahore, Karachi",
+                "description": "Founder & CEO, Lahore Literary Festival @lhrlitfest; Director, AG and Zohra and Z Z Ahmed Foundation.",
+                "url": "https://t.co/67nyNFW5X0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/67nyNFW5X0",
+                                "expanded_url": "http://www.lahorelitfest.com",
+                                "display_url": "lahorelitfest.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 3342,
+                "friends_count": 1132,
+                "listed_count": 28,
+                "created_at": "Sat Aug 14 19:34:37 +0000 2010",
+                "favourites_count": 15036,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 11833,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1000398117525770240/6Rgq6lbx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1000398117525770240/6Rgq6lbx_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/178440187/1425496200",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "possibly_sensitive_appealable": false,
+            "lang": "hi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "hi"
+    },
+    {
+        "created_at": "Sat Feb 22 11:21:40 +0000 2020",
+        "id": 1231177229612306432,
+        "id_str": "1231177229612306432",
+        "text": "Définitivement irréconciliables, écologistes et chasseurs ? Pas sûr. Ils peuvent (parfois) s’entendre https://t.co/4bQ7MBWUMf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/4bQ7MBWUMf",
+                    "expanded_url": "http://bit.ly/2T1o5YL",
+                    "display_url": "bit.ly/2T1o5YL",
+                    "indices": [
+                        102,
+                        125
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 68440549,
+            "id_str": "68440549",
+            "name": "Libération",
+            "screen_name": "libe",
+            "location": "Paris, France",
+            "description": "Bienvenue sur le fil Twitter officiel du journal Libération.",
+            "url": "http://t.co/naonbyZ9SL",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/naonbyZ9SL",
+                            "expanded_url": "http://www.liberation.fr",
+                            "display_url": "liberation.fr",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3039459,
+            "friends_count": 206,
+            "listed_count": 16359,
+            "created_at": "Mon Aug 24 16:09:25 +0000 2009",
+            "favourites_count": 1117,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 196269,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "242424",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/854315131395878912/jZceoVi9_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/854315131395878912/jZceoVi9_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/68440549/1580477716",
+            "profile_link_color": "E3234A",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "36322F",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "fr"
+    },
+    {
+        "created_at": "Sat Feb 22 11:21:39 +0000 2020",
+        "id": 1231177224780423168,
+        "id_str": "1231177224780423168",
+        "text": "Iran elections: conservatives heading for large majority https://t.co/ke1pOI9w7E",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                
+            ],
+            "symbols": [
+                
+            ],
+            "user_mentions": [
+                
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/ke1pOI9w7E",
+                    "expanded_url": "https://www.theguardian.com/world/2020/feb/22/iran-elections-conservatives-heading-for-large-majority?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1582362765",
+                    "display_url": "theguardian.com/world/2020/feb…",
+                    "indices": [
+                        57,
+                        80
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 788524,
+            "id_str": "788524",
+            "name": "Guardian news",
+            "screen_name": "guardiannews",
+            "location": "",
+            "description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/KXycIPGfHd",
+            "url": "https://t.co/PJxUC0RWyr",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/PJxUC0RWyr",
+                            "expanded_url": "http://www.theguardian.com",
+                            "display_url": "theguardian.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/KXycIPGfHd",
+                            "expanded_url": "http://gu.com/supporter/guardiannews",
+                            "display_url": "gu.com/supporter/guar…",
+                            "indices": [
+                                89,
+                                112
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 3047058,
+            "friends_count": 1256,
+            "listed_count": 32699,
+            "created_at": "Thu Feb 22 12:32:47 +0000 2007",
+            "favourites_count": 12,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 222269,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/788524/1542015319",
+            "profile_link_color": "005789",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "CAE3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+    }
+]

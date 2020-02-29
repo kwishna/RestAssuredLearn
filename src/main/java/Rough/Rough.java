@@ -40,8 +40,8 @@ public class Rough {
 //		System.out.println("JSONPATH QUERY ::: "+ JsonPath.read(res.body(), "$['weather']")); // jayway JsonPath
 		System.out.println("JSONPATH QUERY ::: "+ JsonPath.from(res.body()).getString("weather.id")); // rest-assured JsonPath
 		
-		Map<String, String> m = com.jayway.jsonpath.JsonPath.parse(res.body()).read("$['main']", HashMap.class);
-		System.out.println("Map ::: "+m);
+//		Map<String, String> m = com.jayway.jsonpath.JsonPath.parse(res.body()).read("$['main']", HashMap.class);
+//		System.out.println("Map ::: "+m);
 		
 	}
 

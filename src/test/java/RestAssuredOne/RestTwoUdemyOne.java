@@ -14,6 +14,7 @@ import io.restassured.response.ValidatableResponse;
 
 public class RestTwoUdemyOne {
 	
+
 	@Ignore
 	@Test
 	public static void getRequest() {
@@ -28,10 +29,32 @@ public class RestTwoUdemyOne {
 										.when()
 										.get("/maps/api/place/nearbysearch/json")
 										.then()
+				.log().all(true)
 										.assertThat().statusCode(200)
 										.and().contentType(ContentType.JSON)
 										.and().body("results[0].name", equalTo("Sydney"));
 			
+		System.out.println("Get Request ::: "+vres.extract().response().prettyPrint());
+	}
+
+	@Test
+	public static void getRequestAnother() {
+
+		// BaseUrl Or Host
+		RestAssured.baseURI = "http://216.10.245.166";
+
+		ValidatableResponse vres =	given()
+				.param("location", "-33.8670522,151.1957362")
+				.param("radius", 500)
+				.param("key", "AIzaSyDIQgAh0B4p0SdyYkyW8tlG-y0yJMfss5Y")
+				.when()
+				.get("/maps/api/place/nearbysearch/json")
+				.then()
+				.log().all(true)
+				.assertThat().statusCode(200)
+				.and().contentType(ContentType.JSON)
+				.and().body("results[0].name", equalTo("Sydney"));
+
 		System.out.println("Get Request ::: "+vres.extract().response().prettyPrint());
 	}
 	

@@ -1,5 +1,6 @@
 package RealJira;
 
+/*
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.auth.AUTH;
@@ -25,3 +26,4 @@ public class RealJira {
 		resp.getEntity().writeTo(System.out);
 	}
 }
+*/

@@ -22,7 +22,7 @@
             <DefaultRolloverStrategy max="10"/>
         </RollingFile> 
         <RollingFile name="debugLog" fileName="${APP_LOG_ROOT}/app-debug.log"
-            filePattern="${APP_LOG_ROOT}/app-debug-%d{yyyy-MM-dd}-%i.log">
+            filePattern="${APP_LOG_ROOT}/app-debug-%d{yyyy-MM-dd-hh-mm-ss-SSS}-%i.log">
             <LevelRangeFilter minLevel="DEBUG" maxLevel="DEBUG" onMatch="ACCEPT" onMismatch="DENY"/>
             <PatternLayout pattern="${LOG_PATTERN}"/>
             <Policies>
@@ -30,12 +30,13 @@
             </Policies>
             <DefaultRolloverStrategy max="10"/>
         </RollingFile> 
-        <RollingFile name="infoLog" fileName="${APP_LOG_ROOT}/app-info.log"
+        <RollingFile name="infoLog" fileName="${APP_LOG_ROOT}/app-info-%d{yyyy-MM-dd}.log"
             filePattern="${APP_LOG_ROOT}/app-info-%d{yyyy-MM-dd}-%i.log" >
             <LevelRangeFilter minLevel="INFO" maxLevel="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
             <PatternLayout pattern="${LOG_PATTERN}"/>
             <Policies>
                 <SizeBasedTriggeringPolicy size="19500KB" />
+                <OnStartupTriggeringPolicy />
             </Policies>
             <DefaultRolloverStrategy max="10"/>
         </RollingFile> 
@@ -88,7 +89,11 @@
             <AppenderRef ref="frameworkLog"  />
             <AppenderRef ref="traceLog"  />
             <AppenderRef ref="perfLog"  />
-        </Logger>  
+        </Logger>
+        <Logger name="paypal" additivity="false" level="info">
+        <AppenderRef ref="infoLog"  />
+        </Logger>
+
         
         <Root level="ALL">
             <AppenderRef ref="Console"/>

@@ -1,0 +1,74 @@
+{
+  "id": "PAYID-LZJKNNQ2GE05923XU627593N",
+  "intent": "sale",
+  "state": "created",
+  "payer": {
+    "payment_method": "paypal"
+  },
+  "transactions": [
+    {
+      "amount": {
+        "total": "93.00",
+        "currency": "BRL",
+        "details": {
+          "subtotal": "75.00",
+          "tax": "6.00",
+          "shipping": "11.00",
+          "insurance": "1.00",
+          "handling_fee": "1.00",
+          "shipping_discount": "1.00"
+        }
+      },
+      "description": "This is the payment transaction description",
+      "payment_options": {
+        "allowed_payment_method": "IMMEDIATE_PAY",
+        "recurring_flag": false,
+        "skip_fmf": false
+      },
+      "item_list": {
+        "items": [
+          {
+            "name": "handbag",
+            "sku": "product34",
+            "description": "red diamond",
+            "price": "75.00",
+            "currency": "BRL",
+            "tax": "6.00",
+            "quantity": 1
+          }
+        ],
+        "shipping_address": {
+          "recipient_name": "PP Plus Recipient",
+          "line1": "Gregório Rolim de Oliveira, 42",
+          "line2": "JD Serrano II",
+          "city": "Votorantim",
+          "state": "São Paulo",
+          "postal_code": "18117-134",
+          "country_code": "BR",
+          "phone": "0800-761-0880"
+        }
+      },
+      "related_resources": []
+    }
+  ],
+  "create_time": "2020-02-23T16:22:14Z",
+  "links": [
+    {
+      "href": "https://api.sandbox.paypal.com/v1/payments/payment/PAYID-LZJKNNQ2GE05923XU627593N",
+      "rel": "self",
+      "method": "GET"
+    },
+    {
+      "href": "https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-1SG89938PG978441W",
+      "rel": "approval_url",
+      "method": "REDIRECT"
+    },
+    {
+      "href": "https://api.sandbox.paypal.com/v1/payments/payment/PAYID-LZJKNNQ2GE05923XU627593N/execute",
+      "rel": "execute",
+      "method": "POST"
+    }
+  ]
+}
+
+access_token = "A21AAFeklHMtastwZIiv1A6R89dh4EenEpT2nOBV98FTss_CYnjhQf50e8e63Bdasf7aaKPKGZwBbr2U5WMjU91_lb-tbEj_w";
