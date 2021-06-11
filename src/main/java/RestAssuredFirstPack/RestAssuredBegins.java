@@ -1,37 +1,36 @@
 package RestAssuredFirstPack;
-import static io.restassured.RestAssured.*;
-import static org.hamcrest.Matchers.*;
-import static org.testng.Assert.assertEquals;
-
-import java.util.ArrayList;
-import java.util.List;
-
 import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.filter.Filter;
 import io.restassured.filter.FilterContext;
 import io.restassured.filter.log.ErrorLoggingFilter;
+import io.restassured.filter.log.LogDetail;
 import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
+import io.restassured.http.ContentType;
 import io.restassured.parsing.Parser;
+import io.restassured.response.Response;
+import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.FilterableRequestSpecification;
 import io.restassured.specification.FilterableResponseSpecification;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
 import org.hamcrest.CoreMatchers;
 import org.hamcrest.MatcherAssert;
 import org.testng.Reporter;
 import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
-
-import io.restassured.builder.RequestSpecBuilder;
-import io.restassured.builder.ResponseSpecBuilder;
-import io.restassured.filter.log.LogDetail;
-import io.restassured.http.ContentType;
-import io.restassured.response.Response;
-import io.restassured.response.ValidatableResponse;
-import io.restassured.specification.RequestSpecification;
-import io.restassured.specification.ResponseSpecification;
 import pojo.AnotherLocation;
 import pojo.AnyLocation;
 import pojo.Location;
+
+import java.util.List;
+
+import static io.restassured.RestAssured.baseURI;
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.*;
+import static org.testng.Assert.assertEquals;
 
 public class RestAssuredBegins {
 
@@ -214,7 +213,7 @@ public class RestAssuredBegins {
 	}
 	
 	@Ignore
-	@Test
+	@Test(enabled = false)
 	public void requestSpecification() {
 
 		RequestSpecification reqBuilder = new RequestSpecBuilder() // For Re-usability Again & Again In Every Request
@@ -252,7 +251,7 @@ public class RestAssuredBegins {
 	}
 	
 	@Ignore
-	@Test
+	@Test(enabled = false)
 	public void responseSpecification() {
 
 		ResponseSpecification resp = new ResponseSpecBuilder()	// For Re-usability Again & Again In Every Request. Put In @Before Methods
@@ -272,7 +271,7 @@ public class RestAssuredBegins {
 	
 	}
 	
-	@Test
+	@Test(enabled = false)
 	public void responseReuse() {
 
 		ResponseSpecification resp = new ResponseSpecBuilder()	// For Re-usability Again & Again In Every Request. Put In @Before Methods
@@ -298,7 +297,7 @@ public class RestAssuredBegins {
 	}
 
 	// Use : http://www.jsonschema2pojo.org/
-	@Test
+	@Test(enabled = false)
 	public void deSerialization() {
 	
 			Location loc =	given()
@@ -311,7 +310,7 @@ public class RestAssuredBegins {
 		System.out.println(loc);
 	}
 	
-	@Test
+	@Test(enabled = false)
 	public void serialization() {
 
 		Location loc = new Location();
@@ -328,7 +327,7 @@ public class RestAssuredBegins {
 
 	}
 
-	@Test
+	@Test(enabled = false)
 	public static void serialize() {
 
 		AnotherLocation anotherLocation = new AnotherLocation();
